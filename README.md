@@ -1,5 +1,4 @@
-## Hi there 👋
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ceramic and I'm a Software Enggenier + Master degree on Security Information, from Mexico :D 🇲🇽: </h2>
 
 ###
 <div align="center">
@@ -47,7 +46,9 @@
 ### About me!
 
 <div align="left">
+  <a href="#">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
 </div>
@@ -58,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/CeramicCodes2/CeramicCodes2/output/snake.svg" alt="Snake animation" />-->
 
 ###
